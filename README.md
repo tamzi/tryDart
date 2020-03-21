@@ -1,13 +1,13 @@
-
+ <h3 align="center">tryDart</h3>
 <p align="center">
 <a href="https://github.com/tamzi/tryDart">
    <img src="https://raw.githubusercontent.com/tamzi/tryDart/master/art/dartLogo.png" alt="tryDart">
    </a>
 </p>
-  <h3 align="center">tryDart</h3>
+
 
   <p align="center">
-    Tutorial to move you from 0 to 60ish in Dart. <br>
+    Dart Tutorial and exercises to move you from 0 to 60ish in Dart. <br>
 
    [![built with dart](https://img.shields.io/badge/dart-coded%20in%20dart-blue)](#)
 
