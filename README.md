@@ -8,9 +8,7 @@
 
   <p align="center">
     Dart Tutorial and exercises to move you from 0 to 60ish in Dart. <br>
-
-   [![built with dart](https://img.shields.io/badge/dart-coded%20in%20dart-blue)](#)
-
+   [![built with dart](https://img.shields.io/badge/dart-coded%20in%20dart-blue)](https://dart.dev/)
 </p>
 
 <br>
@@ -49,8 +47,9 @@ Knowledge of dart will help you in development of Android, IOS and Desktop Apps 
 #### How to use
 
 **1. Required to run project:**
-        - To run this project use InteliJ(what i used).[You can download it from here](https://www.jetbrains.com/idea/download/) . Any other IDE can also work.
-         - Dart version: 2.7.1 Stable version (Will try update it from time to time ) you an learn about [setting up Dart on you machine here and download Dart here](https://dart.dev/get-dart)
+
+- To run this project use InteliJ(what i used).[You can download it from here](https://www.jetbrains.com/idea/download/) . Any other IDE can also work.
+- Dart version: 2.7.1 Stable version (Will try update it from time to time ) you an learn about [setting up Dart on you machine here and download Dart here](https://dart.dev/get-dart)
 
 **2. Clone this repository:**
 
@@ -63,7 +62,9 @@ Knowledge of dart will help you in development of Android, IOS and Desktop Apps 
 **5. Incase of an eror when building project, its probably because of differing dart versions** Check documentation or [raise an issue](https://github.com/tamzi/tryDart/issues)
 
 ## To Do List
+
  🚧 👷‍ ⛏ 👷 🔧️ 🚧
+
 Ongoing and Done:
 
 - [ ] Add link to a whole repository of pure Dart projects
@@ -72,10 +73,13 @@ Ongoing and Done:
 - [ ] Other unseen tasks  and ideas (OnGOING)
 
 ## Contributing
+
 ### Assets
+
 * Dart logo belongs to [dart team and found here](https://dart.dev/)
 
 ### List of the Contributors on GitHub
+
 * [Contributors](https://github.com/tamzi/tryDart/graphs/contributors)
 
 
@@ -84,6 +88,7 @@ Ongoing and Done:
 </a>
 
 ### Want to contribute?
+
 I would love to have your help in making  **tryDart** better.
 
 The project is still very incomplete but under development. 
