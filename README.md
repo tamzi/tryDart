@@ -7,8 +7,11 @@
 
 
   <p align="center">
-    Dart Tutorial and exercises to move you from 0 to 60ish in Dart. <br>
+    Dart Tutorial and exercises to move you from 0 to 60ish in Dart.
+    <br>
+
    [![built with dart](https://img.shields.io/badge/dart-coded%20in%20dart-blue)](https://dart.dev/)
+
 </p>
 
 <br>
