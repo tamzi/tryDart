@@ -3,6 +3,7 @@ main(){
   double dollarToKESValue = 102.56; //This is an exact value
   int dollarToKESValueRP = 103; //This is a rounded up value
   double KEStoDollarValue = 110.78; //This is an exact value
+  int KEStoDollarvalueRP = 111; //This is a rounded up value
 
 
   //Just a break for readablity
@@ -32,8 +33,7 @@ main(){
 
 
   //KES to dollar in rounded up value
-  int KEStoDollarvalueRP = 111; //This is a rounded up value
-  double rpconvertedKEStoDollar = kes/KEStoDollarvalueRP;
+   double rpconvertedKEStoDollar = kes/KEStoDollarvalueRP;
   print('the amount of Dollars you should expect from your KES 15000 is = ${rpconvertedKEStoDollar} based on rounded up market trading value.');
 
 }
