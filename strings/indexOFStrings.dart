@@ -7,6 +7,14 @@ main (){
   int report = TopMarathonerDetails.indexOf(' ');
   String surname = TopMarathonerDetails.substring(report).trim();
 
+  print('The top marathoner surname is ${surname}');
+
+  /*Double speech marks: No changes*/
+  print("The top marathoner surname is ${surname}");
+
+  /*Using double and single speech marks*/
   print("The top 'marathoner' surname is ${surname}");
+  print('The top "marathoner" surname is ${surname}');
+
 
 }
