@@ -46,6 +46,9 @@ Knowledge of dart will help you in development of Android, IOS and Desktop Apps 
 <hr>
 
 ## Technical
+SDK VERSION UPDATE DATES
+[x] Started project on Dart 2.7.1 Stable Version till 23 March 2020
+[ ] Dart updated to version 2.7.2 Stable version from  24 March 2020
 
 #### How to use
 
@@ -72,6 +75,7 @@ Ongoing and Done:
 
 - [ ] Add link to a whole repository of pure Dart projects
 - [ ] periodically update projects with latest Dart versions.(ONGOING)
+    - [ ] Updated to Dart 2.7.2 (24march 2020).
 - [ ] Update this readMe with links to other Readmes
 - [ ] Other unseen tasks  and ideas (OnGOING)
 
