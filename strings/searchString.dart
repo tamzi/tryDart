@@ -8,8 +8,14 @@ main(){
       print(cicero.contains('Cicero'));
       print(cicero.contains('cicero'));
 
+      /*Checking whether the name frank (which is not there exists)*/
+    print(cicero.contains('frank'));
+
 
       /*Making it more human friendly*/
   print('Is there "cicero" in the above paragraph?: ${cicero.contains('cicero')}');
   print('Is there "cicero" in the above paragraph?: ${cicero.contains('Cicero')}');
+  print('Is there "frank" or "Cicero" in the above paragraph?: ${cicero.contains('frank')}' + '${cicero.contains('Cicero')}');
+
+
 }
